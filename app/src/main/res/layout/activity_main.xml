@@ -3,13 +3,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
-        <com.jcodecraeer.xrecyclerview.XRecyclerView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-        </com.jcodecraeer.xrecyclerview.XRecyclerView>
+    <WebView
+        android:id="@+id/swipe_target"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="vertical"
+        android:fadingEdgeLength="20dp"
+        android:overScrollMode="never"
+        android:scrollbars="none" />
 </LinearLayout>
