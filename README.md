@@ -64,4 +64,4 @@
     ...
 </code></pre>
 
-<p><img src="https://github.com/hytcyjb/yweb/blob/master/screenshot/app_pic1.png?raw=true" width="327" height="658" marge="20"></p>
+<p><img src="https://github.com/hytcyjb/yweb/blob/master/screenshot/app_pic1.png?raw=true" width="871" height="230" marge="20"></p>
