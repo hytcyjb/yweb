@@ -63,19 +63,5 @@
     }
     ...
 </code></pre>
-<p><button id="btn1" style="font-size: 40px;">点我调用android的方法1</button></p><br>
-window.onload = function () {
-        var btn11 = document.getElementById("btn1");
 
-        btn11.onclick = function () {
-            if((typeof local_obj) != 'undefined') {
-                local_obj.goback("1");
-            } else {
-                alert("调用android方法失败，因为android没有注册local_obj事件")
-            }
-        }
-    }
-    ...
-<pre><code>
-
-</code></pre>
+<p><img src="https://github.com/hytcyjb/yweb/blob/master/screenshot/app_pic1.png?raw=true" width="327" height="658" marge="20"></p>
